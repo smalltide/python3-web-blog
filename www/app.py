@@ -1,3 +1,9 @@
+__author__ = 'Ice Lin'
+
+'''
+async web application.
+'''
+
 import logging, asyncio, os, json, time
 from datetime import datetime
 from aiohttp import web
